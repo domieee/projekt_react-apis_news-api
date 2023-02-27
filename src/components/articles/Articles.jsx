@@ -1,5 +1,3 @@
-import { Link } from 'react';
-
 const Articles = (params) => {
 
     console.log(params);
